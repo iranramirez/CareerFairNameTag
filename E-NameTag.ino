@@ -1,4 +1,5 @@
-#include <Adafruit_GFX.h>F#include <TouchScreen.h>
+#include <Adafruit_GFX.h>
+#include <TouchScreen.h>
 #include <Adafruit_TFTLCD.h>
 
 #define YP A3  // must be an analog pin, use "An" notation!
