@@ -7,6 +7,7 @@ electronic Nametag/Resume that can impress potential employers at your Career Fa
 Includes Three Libraries Needed for the Name Tag to work properly
 
 Arduino + Touch Screen LCD Shield Housing by lilo_booter on Thingiverse
+
 Project Name: Doodalu
 Link: https://www.thingiverse.com/thing:1385953
 
