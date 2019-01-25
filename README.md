@@ -9,7 +9,6 @@ Includes Three Libraries Needed for the Name Tag to work properly
 Arduino + Touch Screen LCD Shield Housing by lilo_booter on Thingiverse
 
 Project Name: Doodalu
-
 Link: https://www.thingiverse.com/thing:1385953
 
 instagram.com/iranonoiran <---- For Video of E-NameTag
